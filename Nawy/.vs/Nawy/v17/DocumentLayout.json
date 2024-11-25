@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\Migrations\\20241125191611_intialadnan2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\unitimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\unitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BA17E1-AD9C-4561-9122-A2EA3DBA26D1}|..\\DataBaseModel\\DataBaseModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\databasemodel\\migrations\\20241125191218_intialadnan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\companytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\sharestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\constenum\\viewspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\constenum\\avalibilty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\constenum\\sizeofcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\companyinstallment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\unitdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\CompanyTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\IRepository\\IDataBaseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\Repositories\\DataBaseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\SharesTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitDescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\ViewSpecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\Size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\Orderby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\CompanyInstallment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241125191611_intialadnan2.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\Migrations\\20241125191611_intialadnan2.cs",
+              "RelativeDocumentMoniker": "..\\DataBaseModel\\Migrations\\20241125191611_intialadnan2.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\Migrations\\20241125191611_intialadnan2.cs",
+              "RelativeToolTip": "..\\DataBaseModel\\Migrations\\20241125191611_intialadnan2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:16:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitView.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\UnitView.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\UnitView.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\UnitView.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\UnitView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:15:07.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241125191218_intialadnan.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\Migrations\\20241125191218_intialadnan.cs",
+              "RelativeDocumentMoniker": "..\\DataBaseModel\\Migrations\\20241125191218_intialadnan.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\Migrations\\20241125191218_intialadnan.cs",
+              "RelativeToolTip": "..\\DataBaseModel\\Migrations\\20241125191218_intialadnan.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:12:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyTransaction.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\CompanyTransaction.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\CompanyTransaction.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\CompanyTransaction.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\CompanyTransaction.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:27:48.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\Installment.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\Installment.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\Installment.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\Installment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:26:46.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SharesTransaction.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\SharesTransaction.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\SharesTransaction.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\SharesTransaction.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\SharesTransaction.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:27:05.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\Unit.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\Unit.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\Unit.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\Unit.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:27:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitImages.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\UnitImages.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\UnitImages.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\UnitImages.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\UnitImages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:56:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T17:26:05.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewSpecial.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:53:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Avalibilty.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\Avalibilty.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\ConstEnum\\Avalibilty.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\Avalibilty.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\ConstEnum\\Avalibilty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:51:39.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\Developer.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\Developer.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\Developer.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\Developer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:27:45.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SizeOFCompany.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\SizeOFCompany.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\ConstEnum\\SizeOFCompany.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\SizeOFCompany.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\ConstEnum\\SizeOFCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:50:07.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:49:27.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompanyInstallment.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\CompanyInstallment.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\CompanyInstallment.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\CompanyInstallment.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\CompanyInstallment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:27:53.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitDescription.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\UnitDescription.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\UnitDescription.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\UnitDescription.cs",
+              "RelativeToolTip": "..\\RepositoryModel\\Models\\UnitDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:27:59.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:33:28.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\UnitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UnitController.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\UnitController.cs",
+              "RelativeToolTip": "Controllers\\UnitController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:31:43.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:30:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Installment.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\Installment.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Installment.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\Installment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:57:30.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:51:10.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompanyTransaction.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\CompanyTransaction.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\CompanyTransaction.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\CompanyTransaction.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\CompanyTransaction.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:57:29.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDataBaseRepository.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\IRepository\\IDataBaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\IRepository\\IDataBaseRepository.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\IRepository\\IDataBaseRepository.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\IRepository\\IDataBaseRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:56:02.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataBaseRepository.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\Repositories\\DataBaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\DataBaseModel\\Repositories\\DataBaseRepository.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\Repositories\\DataBaseRepository.cs",
+              "RelativeToolTip": "..\\..\\final-project\\DataBaseModel\\Repositories\\DataBaseRepository.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAOAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:02:40.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\DataBaseModel\\UnitOfWork.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\final-project\\DataBaseModel\\UnitOfWork.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:03:53.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\IUnitOfWork.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:04:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SharesTransaction.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\SharesTransaction.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\SharesTransaction.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\SharesTransaction.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\SharesTransaction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:57:31.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Developer.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\Developer.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Developer.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\Developer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:57:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Unit.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\Unit.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\Unit.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\Unit.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:58:59.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UnitDescription.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitDescription.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\UnitDescription.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitDescription.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\UnitDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:57:33.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitView.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitView.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\UnitView.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitView.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\UnitView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:51:02.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ViewSpecial.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:51:45.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Size.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\Size.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\ConstEnum\\Size.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\Size.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\ConstEnum\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:00:02.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Orderby.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\Orderby.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\ConstEnum\\Orderby.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\ConstEnum\\Orderby.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\ConstEnum\\Orderby.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:01:37.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:57:25.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UnitImages.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitImages.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\UnitImages.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\UnitImages.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\UnitImages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:57:35.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CompanyInstallment.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\CompanyInstallment.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\RepositoryModel\\Models\\CompanyInstallment.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\RepositoryModel\\Models\\CompanyInstallment.cs",
+              "RelativeToolTip": "..\\..\\final-project\\RepositoryModel\\Models\\CompanyInstallment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:57:27.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\final-project\\DataBaseModel\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project\\DataBaseModel\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\final-project\\DataBaseModel\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:25:12.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
